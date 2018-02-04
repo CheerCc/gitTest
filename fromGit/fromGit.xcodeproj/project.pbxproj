@@ -22,6 +22,7 @@
 		43818B3C2027019000F9FA22 /* B2File.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B3B2027019000F9FA22 /* B2File.m */; };
 		43818B3F202705EA00F9FA22 /* EFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B3E202705EA00F9FA22 /* EFile.m */; };
 		43818B422027063200F9FA22 /* B3File.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B412027063200F9FA22 /* B3File.m */; };
+		43818B48202707F200F9FA22 /* B4File.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B47202707F200F9FA22 /* B4File.m */; };
 		43818B45202707A400F9FA22 /* FFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B44202707A400F9FA22 /* FFile.m */; };
 /* End PBXBuildFile section */
 
@@ -50,6 +51,8 @@
 		43818B3E202705EA00F9FA22 /* EFile.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EFile.m; sourceTree = "<group>"; };
 		43818B402027063200F9FA22 /* B3File.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = B3File.h; sourceTree = "<group>"; };
 		43818B412027063200F9FA22 /* B3File.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = B3File.m; sourceTree = "<group>"; };
+		43818B46202707F200F9FA22 /* B4File.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = B4File.h; sourceTree = "<group>"; };
+		43818B47202707F200F9FA22 /* B4File.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = B4File.m; sourceTree = "<group>"; };
 		43818B43202707A400F9FA22 /* FFile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FFile.h; sourceTree = "<group>"; };
 		43818B44202707A400F9FA22 /* FFile.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FFile.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -102,6 +105,8 @@
 				43818B3E202705EA00F9FA22 /* EFile.m */,
 				43818B402027063200F9FA22 /* B3File.h */,
 				43818B412027063200F9FA22 /* B3File.m */,
+				43818B46202707F200F9FA22 /* B4File.h */,
+				43818B47202707F200F9FA22 /* B4File.m */,
 				43818B43202707A400F9FA22 /* FFile.h */,
 				43818B44202707A400F9FA22 /* FFile.m */,
 				431857791BEE32E7001204C1 /* Main.storyboard */,
@@ -192,6 +197,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				43818B422027063200F9FA22 /* B3File.m in Sources */,
+				43818B48202707F200F9FA22 /* B4File.m in Sources */,
 				43818B272026E1A300F9FA22 /* BFile.m in Sources */,
 				431857781BEE32E7001204C1 /* ViewController.m in Sources */,
 				43818B45202707A400F9FA22 /* FFile.m in Sources */,
