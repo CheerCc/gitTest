@@ -18,6 +18,7 @@
 		43818B2D2026E3B500F9FA22 /* (null) in Sources */ = {isa = PBXBuildFile; };
 		43818B302026E72100F9FA22 /* (null) in Sources */ = {isa = PBXBuildFile; };
 		43818B332026E7AA00F9FA22 /* B1File.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B322026E7AA00F9FA22 /* B1File.m */; };
+		43818B3C2027019000F9FA22 /* B2File.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B3B2027019000F9FA22 /* B2File.m */; };
 		43818B362027013100F9FA22 /* CFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B352027013100F9FA22 /* CFile.m */; };
 		43818B392027015E00F9FA22 /* DFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B382027015E00F9FA22 /* DFile.m */; };
 /* End PBXBuildFile section */
@@ -37,6 +38,8 @@
 		43818B262026E1A300F9FA22 /* BFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BFile.m; sourceTree = "<group>"; };
 		43818B312026E7AA00F9FA22 /* B1File.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = B1File.h; sourceTree = "<group>"; };
 		43818B322026E7AA00F9FA22 /* B1File.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = B1File.m; sourceTree = "<group>"; };
+		43818B3A2027019000F9FA22 /* B2File.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = B2File.h; sourceTree = "<group>"; };
+		43818B3B2027019000F9FA22 /* B2File.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = B2File.m; sourceTree = "<group>"; };
 		43818B342027013100F9FA22 /* CFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFile.h; sourceTree = "<group>"; };
 		43818B352027013100F9FA22 /* CFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFile.m; sourceTree = "<group>"; };
 		43818B372027015E00F9FA22 /* DFile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DFile.h; sourceTree = "<group>"; };
@@ -81,6 +84,8 @@
 				43818B262026E1A300F9FA22 /* BFile.m */,
 				43818B312026E7AA00F9FA22 /* B1File.h */,
 				43818B322026E7AA00F9FA22 /* B1File.m */,
+				43818B3A2027019000F9FA22 /* B2File.h */,
+				43818B3B2027019000F9FA22 /* B2File.m */,
 				43818B342027013100F9FA22 /* CFile.h */,
 				43818B352027013100F9FA22 /* CFile.m */,
 				43818B372027015E00F9FA22 /* DFile.h */,
@@ -176,6 +181,7 @@
 				43818B272026E1A300F9FA22 /* BFile.m in Sources */,
 				431857781BEE32E7001204C1 /* ViewController.m in Sources */,
 				43818B332026E7AA00F9FA22 /* B1File.m in Sources */,
+				43818B3C2027019000F9FA22 /* B2File.m in Sources */,
 				43818B392027015E00F9FA22 /* DFile.m in Sources */,
 				431857751BEE32E7001204C1 /* AppDelegate.m in Sources */,
 				43818B302026E72100F9FA22 /* (null) in Sources */,
