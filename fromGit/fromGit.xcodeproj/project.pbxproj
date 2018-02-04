@@ -68,13 +68,10 @@
 				431857741BEE32E7001204C1 /* AppDelegate.m */,
 				431857761BEE32E7001204C1 /* ViewController.h */,
 				431857771BEE32E7001204C1 /* ViewController.m */,
-<<<<<<< HEAD
 				43818B282026E1E500F9FA22 /* BFile.h */,
 				43818B292026E1E500F9FA22 /* BFile.m */,
-=======
 				43818B2C2026E3B500F9FA22 /* AFile.h */,
 				43818B2B2026E3B500F9FA22 /* AFile.m */,
->>>>>>> 0121/a
 				431857791BEE32E7001204C1 /* Main.storyboard */,
 				4318577C1BEE32E7001204C1 /* Assets.xcassets */,
 				4318577E1BEE32E7001204C1 /* LaunchScreen.storyboard */,
