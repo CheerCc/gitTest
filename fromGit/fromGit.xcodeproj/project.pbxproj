@@ -15,6 +15,7 @@
 		431857801BEE32E7001204C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4318577E1BEE32E7001204C1 /* LaunchScreen.storyboard */; };
 		43818B2A2026E1E500F9FA22 /* BFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B292026E1E500F9FA22 /* BFile.m */; };
 		43818B2D2026E3B500F9FA22 /* AFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B2B2026E3B500F9FA22 /* AFile.m */; };
+		43818B302026E72100F9FA22 /* CFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B2F2026E72100F9FA22 /* CFile.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		43818B292026E1E500F9FA22 /* BFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BFile.m; sourceTree = "<group>"; };
 		43818B2B2026E3B500F9FA22 /* AFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFile.m; sourceTree = "<group>"; };
 		43818B2C2026E3B500F9FA22 /* AFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFile.h; sourceTree = "<group>"; };
+		43818B2E2026E72100F9FA22 /* CFile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CFile.h; sourceTree = "<group>"; };
+		43818B2F2026E72100F9FA22 /* CFile.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CFile.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				43818B292026E1E500F9FA22 /* BFile.m */,
 				43818B2C2026E3B500F9FA22 /* AFile.h */,
 				43818B2B2026E3B500F9FA22 /* AFile.m */,
+				43818B2E2026E72100F9FA22 /* CFile.h */,
+				43818B2F2026E72100F9FA22 /* CFile.m */,
 				431857791BEE32E7001204C1 /* Main.storyboard */,
 				4318577C1BEE32E7001204C1 /* Assets.xcassets */,
 				4318577E1BEE32E7001204C1 /* LaunchScreen.storyboard */,
@@ -162,6 +167,7 @@
 				43818B2A2026E1E500F9FA22 /* BFile.m in Sources */,
 				431857781BEE32E7001204C1 /* ViewController.m in Sources */,
 				431857751BEE32E7001204C1 /* AppDelegate.m in Sources */,
+				43818B302026E72100F9FA22 /* CFile.m in Sources */,
 				431857721BEE32E7001204C1 /* main.m in Sources */,
 				43818B2D2026E3B500F9FA22 /* AFile.m in Sources */,
 			);
