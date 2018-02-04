@@ -13,6 +13,7 @@
 		4318577B1BEE32E7001204C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 431857791BEE32E7001204C1 /* Main.storyboard */; };
 		4318577D1BEE32E7001204C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4318577C1BEE32E7001204C1 /* Assets.xcassets */; };
 		431857801BEE32E7001204C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4318577E1BEE32E7001204C1 /* LaunchScreen.storyboard */; };
+		43818B272026E1A300F9FA22 /* BFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B262026E1A300F9FA22 /* BFile.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		4318577C1BEE32E7001204C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4318577F1BEE32E7001204C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		431857811BEE32E7001204C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43818B252026E1A200F9FA22 /* BFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BFile.h; sourceTree = "<group>"; };
+		43818B262026E1A300F9FA22 /* BFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BFile.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				431857741BEE32E7001204C1 /* AppDelegate.m */,
 				431857761BEE32E7001204C1 /* ViewController.h */,
 				431857771BEE32E7001204C1 /* ViewController.m */,
+				43818B252026E1A200F9FA22 /* BFile.h */,
+				43818B262026E1A300F9FA22 /* BFile.m */,
 				431857791BEE32E7001204C1 /* Main.storyboard */,
 				4318577C1BEE32E7001204C1 /* Assets.xcassets */,
 				4318577E1BEE32E7001204C1 /* LaunchScreen.storyboard */,
@@ -149,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43818B272026E1A300F9FA22 /* BFile.m in Sources */,
 				431857781BEE32E7001204C1 /* ViewController.m in Sources */,
 				431857751BEE32E7001204C1 /* AppDelegate.m in Sources */,
 				431857721BEE32E7001204C1 /* main.m in Sources */,
@@ -298,6 +304,7 @@
 				431857861BEE32E7001204C1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
