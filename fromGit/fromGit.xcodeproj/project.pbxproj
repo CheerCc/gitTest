@@ -17,6 +17,7 @@
 		43818B332026E7AA00F9FA22 /* B1File.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B322026E7AA00F9FA22 /* B1File.m */; };
 		43818B3C2027019000F9FA22 /* B2File.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B3B2027019000F9FA22 /* B2File.m */; };
 		43818B422027063200F9FA22 /* B3File.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B412027063200F9FA22 /* B3File.m */; };
+		43818B48202707F200F9FA22 /* B4File.m in Sources */ = {isa = PBXBuildFile; fileRef = 43818B47202707F200F9FA22 /* B4File.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,8 @@
 		43818B3B2027019000F9FA22 /* B2File.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = B2File.m; sourceTree = "<group>"; };
 		43818B402027063200F9FA22 /* B3File.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = B3File.h; sourceTree = "<group>"; };
 		43818B412027063200F9FA22 /* B3File.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = B3File.m; sourceTree = "<group>"; };
+		43818B46202707F200F9FA22 /* B4File.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = B4File.h; sourceTree = "<group>"; };
+		43818B47202707F200F9FA22 /* B4File.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = B4File.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +85,8 @@
 				43818B3B2027019000F9FA22 /* B2File.m */,
 				43818B402027063200F9FA22 /* B3File.h */,
 				43818B412027063200F9FA22 /* B3File.m */,
+				43818B46202707F200F9FA22 /* B4File.h */,
+				43818B47202707F200F9FA22 /* B4File.m */,
 				431857791BEE32E7001204C1 /* Main.storyboard */,
 				4318577C1BEE32E7001204C1 /* Assets.xcassets */,
 				4318577E1BEE32E7001204C1 /* LaunchScreen.storyboard */,
@@ -170,6 +175,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				43818B422027063200F9FA22 /* B3File.m in Sources */,
+				43818B48202707F200F9FA22 /* B4File.m in Sources */,
 				43818B272026E1A300F9FA22 /* BFile.m in Sources */,
 				431857781BEE32E7001204C1 /* ViewController.m in Sources */,
 				43818B332026E7AA00F9FA22 /* B1File.m in Sources */,
